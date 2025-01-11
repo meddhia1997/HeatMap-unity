@@ -105,7 +105,7 @@ This script is free to use under the [MIT License](LICENSE).
 
 ## Contact
 
-For more information, please feel free to contact me at [your email or website].
+For more information, please feel free to contact me .
 
 ---
 
