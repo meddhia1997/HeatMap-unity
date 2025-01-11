@@ -9,6 +9,7 @@ public class HeatmapGenerator : MonoBehaviour
     // Heatmap Configuration
     // ===========================
     public int gridSize = 10;
+    
     public Vector3 gridBounds = new Vector3(50, 10, 50); // Adjusted for 3D bounds
     public Transform[] trackedObjects; // List of objects contributing to the heatmap
     public float[] objectHeatContributions; // Define each object's heat contribution (optional)
