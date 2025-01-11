@@ -1,0 +1,2 @@
+# HeatMap-unity
+ The Heatmap Generator script creates a 3D grid-based heatmap visualizing the intensity of tracked objects' positions in a scene. It uses Unity's Burst Compiler, Jobs System, and Native Collections to efficiently calculate heatmap values using multi-threading, making it ideal for handling large datasets or many objects in real-time. The heatmap can visualize influence areas, character hotspots, or any other object-based heatmap generation
